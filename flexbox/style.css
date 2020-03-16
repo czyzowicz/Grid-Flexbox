@@ -1,18 +1,18 @@
 .div {
     display: flex;
+    justify-content: space-evenly;
+
 }
 
 .button1 {
-    flex: 1;
     background-color: aqua;
 }
 
 .button2 {
-    flex: 2;
     background-color: coral;
+    
 }
 
 .button3 {
-    flex: 1;
     background-color: violet
 }

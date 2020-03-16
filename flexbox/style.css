@@ -1,3 +1,18 @@
 .div {
-    color: rgba(20, 54, 167, 0.548);
+    display: flex;
+}
+
+.button1 {
+    flex: 1;
+    background-color: aqua;
+}
+
+.button2 {
+    flex: 2;
+    background-color: coral;
+}
+
+.button3 {
+    flex: 1;
+    background-color: violet
 }
